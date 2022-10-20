@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jacob\\.nuget\\packages\\": {}
+    "/Users/nigelwilkins/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#6\\dekokJMiniCh#6.csproj",
+      "projectUniqueName": "/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/dekokJMiniCh-6/dekokJMiniCh#6.csproj",
       "projectName": "dekokJMiniCh#6",
-      "projectPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#6\\dekokJMiniCh#6.csproj",
-      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jacob\\OneDrive\\Documents\\CodeStack\\Level#1\\Homework\\dekokJMiniCh#6\\obj\\",
+      "projectPath": "/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/dekokJMiniCh-6/dekokJMiniCh#6.csproj",
+      "packagesPath": "/Users/nigelwilkins/.nuget/packages/",
+      "outputPath": "/Users/nigelwilkins/Desktop/CodestackMain/GitRepository/dekokJMiniCh-6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nigelwilkins/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
